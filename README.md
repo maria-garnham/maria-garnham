@@ -1,4 +1,4 @@
-- 👋 *Hi! I'm Maria Julia, a student of Programming Logic at SENAI.*
+- 👋 *Hi! I'm Maria Julia, a student of Analysis of Systems Development at SENAI.*
 - 👀 *I'm passionate about Artificial Intelligence Development*
 - 🌱 *Here you'll find my academic projects and coding challenges.*
 
